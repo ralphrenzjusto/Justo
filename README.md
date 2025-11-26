@@ -1,4 +1,4 @@
-# Justo'
+# Justo
 ## 📜 Certificates
 
 ### IBM SQL and Relational Databases 101  
