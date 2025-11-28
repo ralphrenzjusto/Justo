@@ -1,6 +1,5 @@
 # Justo
 
-About Me
 Hi! I'm Ralph Renz Justo, an aspiring Junior Developer passionate about web development, databases, and building simple but functional projects. I enjoy learning new technologies and creating mini-projects to strengthen my skills.
 I am currently focusing on:
 Full-stack development basics
